@@ -1,8 +1,8 @@
 # FILE PERMISSIONS IN LINUX
-Objective: Update file and directory permissions to enhance system security.
-Technologies: Linux, chmod, ls -la
-Details:
-
+**Objective: Update file and directory permissions to enhance system security.**
+**Technologies: Linux, chmod, ls -la**
+**Details:
+**
 Checked file and directory details: Used the ls -la command to list contents and identify existing permissions, including hidden files.
 Described permissions strings: Analyzed the 10-character permission strings to determine access levels for user, group, and others.
 Changed file permissions:
